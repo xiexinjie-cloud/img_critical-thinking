@@ -1,5 +1,0 @@
-gie clone  github_url local_directory
-git add file_path
-git add .
-git commit
-git push
